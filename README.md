@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Please visit my portfolio
-[a link]abhj.github.io/abhj/
+[a link](abhj.github.io/abhj/)
