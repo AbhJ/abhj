@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Please visit my portfolio
-[link](https://abj-portfolio.herokuapp.com/)
+Please visit my
+[portfolio](https://abj-portfolio.herokuapp.com/)
