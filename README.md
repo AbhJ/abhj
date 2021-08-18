@@ -15,8 +15,10 @@ My public portfolio page is https://abhj.github.io/public-portfolio where you kn
 My wakatime profile is https://wakatime.com/@abhj  
   
 Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj),  
-reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours. 
+reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.
 
+<hr>
+<p align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -60,7 +62,7 @@ reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guett
 [6]: http://www.github.com/abhj
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
+</p>
 
 <!--
 **AbhJ/abhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
