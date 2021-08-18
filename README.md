@@ -5,7 +5,7 @@
 </a>  
   
 <img align="left" width=47% src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>
-<img align="right" width=47% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>
+<img align="right" width=45% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>
 <img align="left" width=47% src="https://wakatime.com/share/@abhj/ea4b2b60-419f-4dcd-914b-5ed15330cd80.svg"></img>  
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
