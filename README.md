@@ -1,5 +1,4 @@
 <h1 align="center">Hi, welcome!!! 👋</h1>
-https://www.twitter.com/sharer.php?u={"https://twitter.com/abjkgp"}
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhj)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" height=370em src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>
