@@ -13,6 +13,8 @@ A quick learner, a chess lover, and an avid reader I believe, my best ability is
   
 My public portfolio page is https://abhj.github.io/public-portfolio where you know more about me.  
   
+My wakatime profile is https://wakatime.com/@abhj  
+  
 Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj),  
 reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.  
 <!--
