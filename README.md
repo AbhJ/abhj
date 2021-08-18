@@ -1,4 +1,6 @@
 ### Hello welcome to my github page
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhj)](https://github.com/anuraghazra/github-readme-stats)
   
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
