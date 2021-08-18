@@ -1,10 +1,12 @@
 <h1 align="center">Hi, welcome!!! 👋</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhj)](https://github.com/anuraghazra/github-readme-stats)  
-<img align="right" width=48% src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>
-<img align="left" width=48% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>
-<img align="right" width=48% src="https://wakatime.com/share/@abhj/ea4b2b60-419f-4dcd-914b-5ed15330cd80.svg"></img>  
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=abhj" />
+</a>  
+<img align="left" width=45% src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>
+<img align="right" width=48% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>
+<img align="left" width=48% src="https://wakatime.com/share/@abhj/ea4b2b60-419f-4dcd-914b-5ed15330cd80.svg"></img>  
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
 I am quite passionate about Competitive Programming.  
