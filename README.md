@@ -3,8 +3,8 @@
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
 I am quite passionate about Competitive Programming.  
-  
 A quick learner, a chess lover, and an avid reader I believe, my best ability is adaptability.  
+  
 Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj),  
 reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.  
   
