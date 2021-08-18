@@ -24,8 +24,6 @@ reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guett
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-
-
 [![alt text][6.1]][6]
 
 
