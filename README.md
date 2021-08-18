@@ -1,6 +1,13 @@
 ### Hello welcome to my github page
+  
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
-I am quite passionate about Competitive Programming . A quick learner, a chess lover, and an avid reader I believe, my best ability is adaptability. Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.  
+  
+I am quite passionate about Competitive Programming.  
+  
+A quick learner, a chess lover, and an avid reader I believe, my best ability is adaptability.  
+Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj),  
+reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.  
+  
 My public portfolio page is https://abhj.github.io/public-portfolio where you know more about me.  
 <!--
 **AbhJ/abhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
