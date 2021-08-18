@@ -1,7 +1,8 @@
 ### Hello welcome to my github page
 
-<img align="left" height=370em src="https://wakatime.com/share/@abhj/f4216f63-7dde-4802-a1f4-7af487485daf.svg"></img>  
-<img align="right" height=370em src="https://wakatime.com/share/@abhj/95e0de16-f782-410d-a024-fd71b0be2284.svg"></img>  
+<img align="left" height=370em src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>  
+<img align="left" height=370em src="https://wakatime.com/share/@abhj/ea4b2b60-419f-4dcd-914b-5ed15330cd80.svg"></img>  
+<img align="right" height=370em src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhj)](https://github.com/anuraghazra/github-readme-stats)
   
