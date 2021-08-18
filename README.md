@@ -1,4 +1,7 @@
 ### Hello welcome to my github page
+				<figure style="width: 60%;">
+					<embed src="https://wakatime.com/share/@abhj/f4216f63-7dde-4802-a1f4-7af487485daf.svg"></embed>
+				</figure>
 
 <img align="left" height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&theme=vue&hide=css,tcl,html"></img>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhj)](https://github.com/anuraghazra/github-readme-stats)
