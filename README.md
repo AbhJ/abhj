@@ -9,12 +9,10 @@
 <img width=100% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>  
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
-I am quite passionate about Competitive Programming.  
-I am a quick learner, a chess lover, and an avid reader  
+I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader  
   
-My public portfolio page is https://abhj.github.io/public-portfolio  
-and my blog page is https://abhj.github.io/abj-blogs/  
-where you may know more about me. 
+My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is   
+https://abhj.github.io/abj-blogs/ where you may know more about me.  
   
 My wakatime profile is https://wakatime.com/@abhj  
   
