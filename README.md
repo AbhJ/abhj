@@ -4,9 +4,8 @@
   <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=abhj" />
 </a>  
   
-<img width=100% src="https://wakatime.com/share/@abhj/911980a8-24a1-4414-ada4-f418b1887427.svg"></img>
-<!-- <img width=100% src="https://wakatime.com/share/@abhj/ea4b2b60-419f-4dcd-914b-5ed15330cd80.svg"></img>  -->
-<img width=100% src="https://wakatime.com/share/@abhj/86deccde-1565-4687-a2ca-97f4a905e6b6.svg"></img>  
+<img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg"></img>
+<img width=100% src="https://wakatime.com/share/@abhj/49a32179-f0e2-4c91-8f03-b5aa54518929.svg"></img>  
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
 I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader  
