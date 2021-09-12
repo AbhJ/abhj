@@ -15,8 +15,9 @@ https://abhj.github.io/abj-blogs/ where you may know more about me.
   
 My wakatime profile is https://wakatime.com/@abhj  
   
-Apart from software and math, stuff I enjoy are watching loads of anime (https://myanimelist.net/animelist/abhj),  
-reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta and watching documentaries for hours.
+Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching 
+loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), 
+listening to David Guetta and watching true crime investigation documentaries for hours.
 
 <hr>  
 <h3 align="center">  
