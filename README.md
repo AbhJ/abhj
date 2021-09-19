@@ -16,7 +16,7 @@ I am probably an ISTJ (https://www.16personalities.com/profiles/cd5350afa084b) a
 <!-- <img width=100% src="https://github.com/AbhJ/abhj/raw/master/image/pers.png"></img>  -->
 My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs where you may know more about me.  
   
-My wakatime profile is https://wakatime.com/@abhj.  
+<!-- My wakatime profile is https://wakatime.com/@abhj.   -->
 Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta (and Ricky Martin) and watching true crime investigation documentaries for hours.
 
 <hr>  
