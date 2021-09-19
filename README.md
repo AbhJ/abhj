@@ -11,7 +11,8 @@ I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and as
   
 I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader.  
   
-I classify myself as INTJ and am a minimalist.  
+I am probably an ISTJ (source - https://www.16personalities.com/free-personality-test) and certainly a minimalist.  
+<img width=100% src="https://github.com/AbhJ/abhj/raw/master/image/pers.png"></img> 
   
 My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs where you may know more about me.  
   
