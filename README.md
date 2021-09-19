@@ -13,8 +13,7 @@ I am quite passionate about Competitive Programming.  I am a quick learner, a ch
   
 I am probably an ISTJ (https://www.16personalities.com/profiles/cd5350afa084b) and certainly a minimalist and perfectionist.  
   
-<img width=100% src="https://github.com/AbhJ/abhj/raw/master/image/pers.png"></img> 
-  
+<!-- <img width=100% src="https://github.com/AbhJ/abhj/raw/master/image/pers.png"></img>  -->
 My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs where you may know more about me.  
   
 My wakatime profile is https://wakatime.com/@abhj  
