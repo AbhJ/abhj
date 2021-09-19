@@ -9,9 +9,11 @@
 <img width=100% src="https://wakatime.com/share/@abhj/49a32179-f0e2-4c91-8f03-b5aa54518929.svg"></img>  
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
-I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader  
+I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader.  
   
-My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs/ where you may know more about me.  
+I classify myself as INTJ and am a minimalist.  
+  
+My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs where you may know more about me.  
   
 My wakatime profile is https://wakatime.com/@abhj  
 Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta (and Ricky Martin) and watching true crime investigation documentaries for hours.
