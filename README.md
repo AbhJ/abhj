@@ -1,12 +1,11 @@
 <h1 align="center">Hi, welcome!!! 👋</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=abhj)
-" />
+  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=abhj&show_icons=true" />
 </a>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&hide=javascript,html,css" />
+  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&hide=javascript,html,css&layout=compact" />
 </a>  
   
 <img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg"></img>
