@@ -5,7 +5,7 @@
 </a>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhj)" />
+  <img align="center" width=100% align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@abhj)" />
 </a>
   
 <img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg"></img>
