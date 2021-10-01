@@ -1,4 +1,4 @@
-<h1 align="center">Hi, welcome!!! 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <img width=100% src="https://github-readme-stats.vercel.app/api?username=abhj&show_icons=true" />
 <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&hide=html,css&layout=compact&langs_count=4" />
 <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=abhj&custom_title=Today's Coding Stats" />
