@@ -25,7 +25,7 @@ Connect with me
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![alt text][3.1]][5]
 [![alt text][6.1]][6]
 
 
@@ -56,9 +56,9 @@ Connect with me
 
 [1]: http://www.twitter.com/abjkgp
 [2]: http://www.facebook.com/abhijaymitra
-[3]: https://plus.google.com/+mitraabhijay
+[3]: 
 [4]: 
-[5]: 
+[5]: https://abhj.github.io
 [6]: http://www.github.com/abhj
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
