@@ -19,9 +19,9 @@ My public portfolio page is https://abhj.github.io/public-portfolio and my blog 
 Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta (and Ricky Martin) and watching true crime investigation documentaries for hours.  
 ### My latest blogs on Dev:  
 <!-- BLOG-POST-LIST:START -->
+- [My Review of &#39;Zero To One&#39;](https://dev.to/abhj/my-review-of-zero-to-one-25hc)
 - [Updates in Ubuntu 21.10](https://dev.to/abhj/updates-in-ubuntu-2110-pke)
 - [Languages of the Future](https://dev.to/abhj/languages-of-the-future-2dlf)
-- [My Internship at Salesforce](https://dev.to/abhj/my-internship-at-salesforce-1ai5)
 <!-- BLOG-POST-LIST:END -->
 <hr>  
 <span align="center">
