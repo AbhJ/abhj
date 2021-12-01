@@ -4,6 +4,8 @@
 <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=abhj&custom_title=Today's Coding Stats" />
 <img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg" /> 
 <img width=100% src="https://wakatime.com/share/@abhj/49a32179-f0e2-4c91-8f03-b5aa54518929.svg" />  
+
+### A Quick and Brief Intro:
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
   
 I am quite passionate about Competitive Programming.  I am a quick learner, a chess lover, and an avid reader.  
@@ -12,10 +14,15 @@ I am probably an ISTJ (https://www.16personalities.com/profiles/cd5350afa084b) a
   
 <!-- <img width=100% src="https://github.com/AbhJ/abhj/raw/master/image/pers.png"></img>  -->
 My public portfolio page is https://abhj.github.io/public-portfolio and my blog page is https://abhj.github.io/abj-blogs where you may know more about me.  
-  
+### Just my Hobbies:  
 <!-- My wakatime profile is https://wakatime.com/@abhj.   -->
-Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta (and Ricky Martin) and watching true crime investigation documentaries for hours.
-
+Apart from software and math, stuff I enjoy are reading lots of books (https://www.goodreads.com/abhj), watching loads of anime (https://myanimelist.net/animelist/abhj), reading manga (https://myanimelist.net/mangalist/abhj), listening to David Guetta (and Ricky Martin) and watching true crime investigation documentaries for hours.  
+### My latest blogs on Dev:  
+<!-- BLOG-POST-LIST:START -->
+- [Updates in Ubuntu 21.10](https://dev.to/abhj/updates-in-ubuntu-2110-pke)
+- [Languages of the Future](https://dev.to/abhj/languages-of-the-future-2dlf)
+- [My Internship at Salesforce](https://dev.to/abhj/my-internship-at-salesforce-1ai5)
+<!-- BLOG-POST-LIST:END -->
 <hr>  
 <span align="center">
 
@@ -26,8 +33,3 @@ Apart from software and math, stuff I enjoy are reading lots of books (https://w
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/abjkgp)  &nbsp; 
 </span>
 
-<!-- BLOG-POST-LIST:START -->
-- [Updates in Ubuntu 21.10](https://dev.to/abhj/updates-in-ubuntu-2110-pke)
-- [Languages of the Future](https://dev.to/abhj/languages-of-the-future-2dlf)
-- [My Internship at Salesforce](https://dev.to/abhj/my-internship-at-salesforce-1ai5)
-<!-- BLOG-POST-LIST:END -->
