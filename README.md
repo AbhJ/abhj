@@ -25,3 +25,6 @@ Apart from software and math, stuff I enjoy are reading lots of books (https://w
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](http://www.facebook.com/abhijaymitra)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/abjkgp)  &nbsp; 
 </span>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
