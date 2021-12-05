@@ -27,6 +27,7 @@ Apart from software and math, stuff I enjoy are reading lots of books (https://w
 <span align="center">
 
 [<img src="https://toppng.com/uploads/preview/letter-a-png-11552941435fskk9pyn7o.png" width="3.5%"/>](https://abhj.github.io)  &nbsp; 
+[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width='3.5%'/>](https://dev.to/abhj)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](http://www.twitter.com/abjkgp)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abhj)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](http://www.facebook.com/abhijaymitra)  &nbsp; 
