@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋</h1>
 <img width=100% src="https://github-readme-stats.vercel.app/api?username=abhj&show_icons=true" />
-<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&hide=html,css&layout=compact&langs_count=4" />
-<img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=abhj&custom_title=Today's Coding Stats" />
-<img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg" /> 
+<img width=100% src="https://wakatime.com/share/@abhj/88bb3b86-cc49-4284-ab0c-f79130413f96.svg" /> 
 <img width=100% src="https://wakatime.com/share/@abhj/3e8ba326-54f6-40f7-b53d-872d029c3e25.svg" />  
-<img width=100% src="https://wakatime.com/share/@abhj/94079192-46d9-4efc-bae5-38fb95ea890a.svg" />
+<img width=100% src="https://wakatime.com/share/@abhj/38cd03a8-4664-4676-bde8-f75495a93663.svg" />  
 
 ### A Quick and Brief Intro:
 I am a Final Year Undergraduate of Electrical Engineering @ IIT Kharagpur and aspiring Software Engineer.  
