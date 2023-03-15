@@ -3,7 +3,7 @@
 <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhj&hide=html,css&layout=compact&langs_count=4" />
 <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=abhj&custom_title=Today's Coding Stats" />
 <img width=100% src="https://wakatime.com/share/@abhj/9ebae3c8-e8a4-4b7d-8ed1-0376174b903e.svg" /> 
-<img width=100% src="https://wakatime.com/share/@abhj/49a32179-f0e2-4c91-8f03-b5aa54518929.svg" />  
+<img width=100% src="https://wakatime.com/share/@abhj/3e8ba326-54f6-40f7-b53d-872d029c3e25.svg" />  
 <img width=100% src="https://wakatime.com/share/@abhj/94079192-46d9-4efc-bae5-38fb95ea890a.svg" />
 
 ### A Quick and Brief Intro:
