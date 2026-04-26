@@ -21,7 +21,7 @@ More on my [portfolio](https://abhj.github.io/public-portfolio) · [blog](https:
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [My Review of 'Zero To One'](https://dev.to/abhj/my-review-of-zero-to-one-25hc)
+- [My Review of &#39;Zero To One&#39;](https://dev.to/abhj/my-review-of-zero-to-one-25hc)
 - [Updates in Ubuntu 21.10](https://dev.to/abhj/updates-in-ubuntu-2110-pke)
 - [Languages of the Future](https://dev.to/abhj/languages-of-the-future-2dlf)
 <!-- BLOG-POST-LIST:END -->
